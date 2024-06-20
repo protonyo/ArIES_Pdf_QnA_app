@@ -1,7 +1,0 @@
-Flask
-pymupdf
-torch
-transformers
-pandas
-scikit-learn
-streamlit
